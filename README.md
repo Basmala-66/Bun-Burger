@@ -2,9 +2,6 @@
 
 A responsive, front-end-only restaurant menu and ordering experience built with HTML, CSS, and vanilla JavaScript.
 
-## Run locally
-
-Open `index.html` in a browser. Product photography and web fonts load from Unsplash and Google Fonts.
 
 ## Customize
 
